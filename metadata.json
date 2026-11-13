@@ -1,0 +1,6 @@
+{
+  "name": "Mainframe",
+  "description": "Mainframe creative agency landing page featuring A.R.I.A, our Adaptive Response Interface Agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
